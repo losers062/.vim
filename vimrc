@@ -10,7 +10,7 @@ set rnu
 
 "set cursorcolumn
 set cursorline
-hi cursorline cterm=NONE ctermbg=8 ctermfg=NONE
+"hi cursorline cterm=NONE ctermbg=8 ctermfg=NONE
 
 " 4 spaces to a tab, even when editing and autoindenting "
 " Also replace tabs with spaces "
@@ -24,4 +24,9 @@ set expandtab
 
 set autoindent
 set cindent
+
+
+
+
+
 
